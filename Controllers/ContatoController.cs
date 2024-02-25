@@ -1,6 +1,5 @@
 ﻿using APIExemplo.Contatos;
 using APIExemplo.Context;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 
